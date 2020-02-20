@@ -11,3 +11,8 @@
 .lander p {
     color:#999;
 }
+
+.card {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
